@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+  overflow-x: hidden;
+}
+body {
+  padding: 20rem 50rem;
+}
+.general {
+  font-size: 3rem;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+/* header */
+
+.header {
+  padding: 0 2rem;
+  border-bottom: 1px black solid;
+}
